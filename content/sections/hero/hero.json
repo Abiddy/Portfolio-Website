@@ -1,18 +1,18 @@
 {
-  "intro": "Hej",
+  "intro": "",
   "image": {
-    "src": "../../images/waving-hand.png",
+    "src": "",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Hi",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "",
+    "highlight": "",
+    "suffix": ""
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I'm Nouman Abidi",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
   }
 }

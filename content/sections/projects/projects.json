@@ -2,19 +2,21 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Spring 2020 - Present",
+      "title": "Web Developer | Student Affairs",
+      "description": "At SAIT we develop and maintain student resource applications for over 30,000 students. Our aim is to make student resources easily availabe and we especially focus on making accommodation requests easily available for students with disabilites.",
+      "tags": [
+        "Ruby on Rails",
+        "Javascript",
+        "MySQL",
+        "Object Oriented Programming",
+        "Data Structures"
+      ],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/csun.jpeg",
         "alt": "Quick Setup"
       },
       "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
         {
           "type": "external",
           "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
@@ -23,18 +25,73 @@
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Fall 2021",
+      "title": "Cloudy | Javascript Pet",
+      "description": "A simple javascrpt/jquery pet with behaviors and functionality ",
+      "tags": ["JQuery", "HTML/CSS"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/cloudy5.png",
         "alt": "Extendable Layout"
       },
       "links": [
         {
+          "type": "external",
+          "url": "https://project-2-gigapet.glitch.me/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Spring 2021",
+      "title": "Candy Shop",
+      "description": "Rails app model that creates and manages candy shop items and candy inventory.",
+      "tags": ["Ruby on Rails", "OOP", "MySQL"],
+      "image": {
+        "src": "../../images/candyshop4.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://candy-shop-nouman.herokuapp.com/"
+        },
+        {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/Abiddy/candy-shop"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Fall 2021",
+      "title": "Speed Typing Test Game",
+      "description": "An app that tests typing speed.",
+      "tags": ["Vanilla Javascript", "Timers", "Intervals"],
+      "image": {
+        "src": "../../images/type.png",
+        "alt": ""
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://third-project-.glitch.me/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Fall 2021 - Current",
+      "title": "Clockin-Clockout",
+      "description": " A fast and easy solution for (student) employees to clock in and out of work shifts.",
+      "tags": ["react.js", "express.js", "tailwindCSS"],
+      "image": {
+        "src": "../../images/clockApp.png",
+        "alt": ""
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://xd.adobe.com/view/04b1023c-88c9-484b-b289-2832ae1856af-51e2/?fullscreen"
         }
       ]
     }
@@ -42,6 +99,6 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/Abiddy"
   }
 }

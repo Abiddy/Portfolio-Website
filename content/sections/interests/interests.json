@@ -1,56 +1,63 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Javascript",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/js.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "React",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "HTML/CSS",
       "image": {
         "src": "../../images/notebook.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Ruby",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/ruby.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Ruby on Rails",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/rails2.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "Python",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "C/C++",
       "image": {
         "src": "../../images/mobile-phone.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Data Structures",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/data.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Git",
       "image": {
         "src": "../../images/high-voltage.png",
         "alt": ""
