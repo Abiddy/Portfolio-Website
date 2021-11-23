@@ -4,13 +4,13 @@
     "src": "",
     "alt": "Waving Hand Emoji"
   },
-  "title": "Hi",
+  "title": "Hey,",
   "subtitle": {
-    "prefix": "",
-    "highlight": "",
+    "prefix": "I'm ",
+    "highlight": "Nouman Abidi",
     "suffix": ""
   },
-  "description": "I'm Nouman Abidi",
+  "description": "",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true

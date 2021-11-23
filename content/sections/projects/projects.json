@@ -4,7 +4,7 @@
       "visible": true,
       "category": "Spring 2020 - Present",
       "title": "Web Developer | Student Affairs",
-      "description": "At SAIT we develop and maintain student resource applications for over 30,000 students. Our aim is to make student resources easily availabe and we especially focus on making accommodation requests easily available for students with disabilites.",
+      "description": "At SAIT, we develop and maintain student resource applications for over 30,000 students. Our aim is to make student resources easily availabe and we especially focus on making accommodation requests easily available for students with disabilites.",
       "tags": [
         "Ruby on Rails",
         "Javascript",
@@ -19,7 +19,7 @@
       "links": [
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://www.csun.edu/dres"
         }
       ]
     },
@@ -27,7 +27,7 @@
       "visible": true,
       "category": "Fall 2021",
       "title": "Cloudy | Javascript Pet",
-      "description": "A simple javascrpt/jquery pet with behaviors and functionality ",
+      "description": "A simple javascript / jquery pet with functionality depending certian behaviors.",
       "tags": ["JQuery", "HTML/CSS"],
       "image": {
         "src": "../../images/cloudy5.png",
@@ -80,7 +80,7 @@
     },
     {
       "visible": true,
-      "category": "Fall 2021 - Current",
+      "category": "In Progress",
       "title": "Clockin-Clockout",
       "description": " A fast and easy solution for (student) employees to clock in and out of work shifts.",
       "tags": ["react.js", "express.js", "tailwindCSS"],

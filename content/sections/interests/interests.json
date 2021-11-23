@@ -62,6 +62,13 @@
         "src": "../../images/high-voltage.png",
         "alt": ""
       }
+    },
+    {
+      "label": "UX / UI Design",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
     }
   ],
   "button": {
