@@ -27,7 +27,7 @@
       "visible": true,
       "category": "Fall 2021",
       "title": "Cloudy | Javascript Pet",
-      "description": "A simple javascript / jquery pet with functionality depending certian behaviors.",
+      "description": "A simple javascript / jquery pet with functionality based on certian behaviors.",
       "tags": ["JQuery", "HTML/CSS"],
       "image": {
         "src": "../../images/cloudy5.png",

@@ -13,7 +13,7 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Nouman Abidi | Portfolio" image="preview.jpg" />
+      <Seo title="Nouman Abidi | Portfolioooo" image="preview.jpg" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About Me" />
