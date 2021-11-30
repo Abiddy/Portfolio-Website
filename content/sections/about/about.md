@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/n2.png"
+imageSrc: "../../images/m2.png"
 imageAlt: "Nouman PNG 1"
 ---
 
